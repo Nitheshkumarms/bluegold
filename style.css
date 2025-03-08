@@ -597,7 +597,8 @@ section {
 @media (max-width: 768px) {
     #about {
         min-height: auto; /* Adjust height to fit content */
-        padding: 40px 20px; /* Reduced padding for mobile */
+        padding: 40px 20px;
+        height: auto;/* Reduced padding for mobile */
     }
 
     .sections-container {
